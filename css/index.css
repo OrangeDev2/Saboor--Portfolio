@@ -1,0 +1,20 @@
+body {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+nav li {
+    display: inline-block;
+}
