@@ -1,13 +1,14 @@
 body {
-    color: white;
+    color: black;
     font-family: "Times New Roman", Times, serif;
 }
 
 nav a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     display: block;
     padding: 8px;
+    font-size: large;
 }
 
 nav ul {
