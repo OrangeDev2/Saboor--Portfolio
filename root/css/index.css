@@ -3,6 +3,10 @@ body {
     font-family: "Times New Roman", Times, serif;
 }
 
+nav {
+    padding-bottom: 2em;
+}
+
 nav a {
     color: rgb(0, 0, 0);
     text-decoration: none;
